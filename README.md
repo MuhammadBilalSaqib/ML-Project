@@ -22,4 +22,4 @@ This project implements Logistic Regression for binary classification on two dif
 - Pillow (PIL)
 - HTML, CSS, JavaScript
 
-## Project Structure
+
